@@ -12,7 +12,7 @@ Departement Mathematik und [Informatik](http://informatik.unibas.ch/), Universit
 
 
 ##### Dozent
-* [Marcel Lüthi](mailto:marcel.luethi@unibas.ch)
+* [Patrick Schnider](mailto:patrick.schnider@unibas.ch)
 
 ##### Tutoren
 
@@ -30,7 +30,7 @@ Aktuelle Methoden und Tools werden im Rahmen eines vorlesungsbegleitenden Projek
 ## Vorlesungsseite
 
 Diese Seite entspricht der offiziellen Vorlesungsseite. Sie finden hier alle Informationen zur Vorlesung, sowie die Vorlesungsunterlagen.
-Diese Seite soll auch zeigen, wie man mittels Github Pages einfach technische Dokumentationen erstellen kann, die sich leicht pflegen lassen. Die Seite wird direkt aus dem [Github Repository](https://github.com/unibas-marcelluethi/software-engineering) generiert. Wenn Sie Fehler finden, können Sie also gerne einen Pull Request machen. 
+Diese Seite soll auch zeigen, wie man mittels Github Pages einfach technische Dokumentationen erstellen kann, die sich leicht pflegen lassen. Die Seite wird direkt aus dem [Github Repository](https://github.com/PatrickSchniderUnibas/software-engineering) generiert. Wenn Sie Fehler finden, können Sie also gerne einen Pull Request machen. 
 
 Alles Material, welches nicht öffentlich zugänglich sein soll, wird auf unserem [Adam workspace](https://adam.unibas.ch/ilias.php?baseClass=ilrepositorygui&ref_id=1738211) zur Verfügung gestellt.
 
