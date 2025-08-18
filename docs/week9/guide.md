@@ -12,7 +12,7 @@ title : Woche 9
 
 ### Grundlegende Lernziele
 
-Alle Studierenden sind verantwortlich, sich die untenstehenden Lernziele *vor* der Vorlesungsstunde am 17. November *selbständig* zu erarbeiten.
+Alle Studierenden sind verantwortlich, sich die untenstehenden Lernziele *vor* der Vorlesungsstunde am 18. November *selbständig* zu erarbeiten.
 
 Nach dem Selbstudium der Vorlesungsmaterialien sollten die Studierenden:
 - erklären können, weshalb wir Software immer verifizieren müssen

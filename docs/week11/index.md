@@ -40,7 +40,7 @@ Die Studierenden
 Versuchen Sie die Aufgaben im [Alloy Übungsblatt](../exercises/alloy) zu lösen. 
 
 - Das Übungsblatt muss nicht abgegeben werden. 
-- Wir werden die Übungen in der letzten Übungsstunde am 17. Dezember besprechen.
+- Wir werden die Übungen in der letzten Übungsstunde am 16. Dezember besprechen.
 - Das bearbeiten der Übungen ist freiwillig. Alloy wird aber ein Teil der Prüfung sein.
 
 

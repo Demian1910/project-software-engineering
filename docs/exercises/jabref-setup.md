@@ -7,7 +7,7 @@ title : Woche 1
 
 ## Administratives
 
-* Dieses Übungsblatt wird in der Übungsstunde vom 17. September eingeführt und bearbeitet. Falls die Zeit in der Übungsstunde nicht reicht, muss das Setup bis zur Übungsstunde am 24. September fertiggestellt werden.
+* Dieses Übungsblatt wird in der Übungsstunde vom 16. September eingeführt und bearbeitet. Falls die Zeit in der Übungsstunde nicht reicht, muss das Setup bis zur Übungsstunde am 23. September fertiggestellt werden.
 
 * Es ist keine Abgabe erforderlich.
 
@@ -18,7 +18,7 @@ In dieser ersten Übung werden Sie alle wichtigen Tools und die Entwicklungsumge
 
 
 ## Benutzeraccount auf Github
-Falls Sie noch keinen Benutzeraccount auf [Github](https://www.github.com) haben, erstellen Sie bitte einen. Teilen Sie uns Ihren Github Benutzernamen via E-Mail an [marcel.luethi@unibas.ch](mailto:marcel.luethi@unibas.ch) mit, damit wir Ihnen Zugriff auf das Code-Repository geben können.
+Falls Sie noch keinen Benutzeraccount auf [Github](https://www.github.com) haben, erstellen Sie bitte einen. Teilen Sie uns Ihren Github Benutzernamen via E-Mail an [patrick.schnider@unibas.ch](mailto:patrick.schnider@unibas.ch) mit, damit wir Ihnen Zugriff auf das Code-Repository geben können.
 
 *Auf Github ist dieser Benutzername sehr prominent und wird auch in der Projektkommunikation verwendet. Achten Sie deshalb bitte darauf, dass Sie einen Benutzernamen wählen, der professionelles Arbeiten zulässt. Gute Beispiele sind: ```andreasmeier``` oder ```andreas``` oder ```ameier```. Beispiele von ungeeigneten Namen sind ```coderking```, ```cookiemonster``` oder ```skaterboy```.*
 

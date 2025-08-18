@@ -14,13 +14,13 @@ Sie denken sich als Gruppe ein Projekt aus und müssen dies dann strukturiert re
 | Aufgabe |  Erste Abgabe | Besprechung | Finale Version | Bemerkung |
 |---------|--------|---------------------|---------|-----------|
 | JabRef kennenlernen | - | - | - | Eigene Experimente / Übungen 1 - 4 |
-| [Projektvorschag einreichen](./projektvorschlag.md)  | 4. Oktober | 8. Oktober | - | Projektbeginn ist der 8. Oktober |
-| [Gruppenrepository einrichten](./group-repository) | 8. Oktober | --   | 8. Oktober | | 
-| [Pflichtenheft/Projektplan erstellen](./requirements) | 11. Oktober | 15. Oktober  | 29. Oktober |  | 
-| [Design und Prototyp erstellen](./technical-doc) | 1. November | 5. November | 12. November | |
-| [Testplan erstellen](./testplan) | 15. November | 19. November | 26. November| |
-| [Abschlusspräsentation](./presentation) | 3. Dezember |  --  | 3. Dezember | Präsentationen vor Ort | 
-| [Finale Abgabe ganzes Projekt](./submission) | 17. Dezember | --  | 17. Dezember |
+| [Projektvorschag einreichen](./projektvorschlag.md)  | 3. Oktober | 7. Oktober | - | Projektbeginn ist der 7. Oktober |
+| [Gruppenrepository einrichten](./group-repository) | 7. Oktober | --   | 7. Oktober | | 
+| [Pflichtenheft/Projektplan erstellen](./requirements) | 10. Oktober | 14. Oktober  | 28. Oktober |  | 
+| [Design und Prototyp erstellen](./technical-doc) | 31. Oktober | 4. November | 11. November | |
+| [Testplan erstellen](./testplan) | 14. November | 18. November | 25. November| |
+| [Abschlusspräsentation](./presentation) | 2. Dezember |  --  | 2. Dezember | Präsentationen vor Ort | 
+| [Finale Abgabe ganzes Projekt](./submission) | 16. Dezember | --  | 16. Dezember |
 
 
 
