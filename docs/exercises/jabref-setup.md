@@ -113,7 +113,7 @@ Nachdem wir nun alle Werkzeuge installiert haben, müssen wir noch das JabRef Pr
 ### Forken des Github Repositories
 
 In diesem Kurs arbeiten wir nicht mit dem offiziellen JabRef Code Repository, sondern mit einem privaten Fork. Damit sind ihre Änderungen und unsere Bemerkungen für die Öffentlichkeit nicht zugänglich.
-Damit Sie auf unseren Fork von JabRef zugreifen können, müssen wir Ihnen Zugriff auf dieses Repository geben. Sie können überprüfen ob Sie Zugriff haben indem Sie auf [https://github.com/unibas-marcelluethi/jabref](https://github.com/unibas-marcelluethi/jabref) gehen.
+Damit Sie auf unseren Fork von JabRef zugreifen können, müssen wir Ihnen Zugriff auf dieses Repository geben. Sie können überprüfen ob Sie Zugriff haben indem Sie auf [https://github.com/PatrickSchniderUnibas/jabref](https://github.com/PatrickSchniderUnibas/jabref) gehen.
 Falls Sie bereits Zugriff haben, sollte die Seite etwa wie folgt aussehen:
 ![image](images/github-jabref.png)
 
@@ -187,8 +187,10 @@ Um JabRef aus der IDE zu starten öffnen Sie das Gradle Fenster und starten die 
 
 Wenn alles funktioniert hat, sollte nun JabRef erfolgreich aus der IDE gestartet werden können.
 
+<!--
 ### Alles erfolgreich installiert?
-Sie können uns Ihren Erfolg gerne im [Diskussionforum](https://github.com/unibas-marcelluethi/jabref/discussions) mitteilen. 
+Sie können uns Ihren Erfolg gerne im [Diskussionforum](https://github.com/unibas-marcelluethi/jabref/discussions) mitteilen.
+-->
 
 
 
