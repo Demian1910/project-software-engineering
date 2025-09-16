@@ -125,6 +125,7 @@ Nun erstellen Sie, ausgehend von unserem privaten Fork, ihren eigenen privaten F
 Damit unsere Assistenten Ihre Abgaben anschauen können, müssen Sie diesen noch Zugriffsrechte auf ihr neues Repository geben. Dafür gehen Sie auf *Settings* und dann *Manage access*:
 ![github-manage-access](images/github-manage-access.png)
 
+Löschen Sie als erstes alle Collaborators, die Sie aktuell im Projekt sehen.
 Klicken Sie dann auf *Add people* und fügen Sie `fabiandudler`, `Giovvvvva` und `josphstar` hinzu.
 ![github-manage-access](images/github-manage-access-invite.png)
 
