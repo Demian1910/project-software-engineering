@@ -47,7 +47,7 @@ Einen Überblick über die einzelnen Projektschritte finden Sie auf der [Projekt
 
 |  | Theorie | Übung / Projekt 
 |------| ----- | --------- |
-|[Woche 1](./week1) | Was ist Software engineering  | Übung 0: JabRef Setup | 
+|[Woche 1](./week1) | Was ist Software engineering  | Übung 1: JabRef Setup | 
 |    | Eigenschaften von Software | | 
 |[Woche 2](./week2) | Prozesse und Werkzeuge des Software Engineerings| Übung 1: Erste Änderungen an JabRef |
 |[Woche 3](./week3) | Qualitätsmerkmale von Software  | Übung 2: Code verstehen | 
