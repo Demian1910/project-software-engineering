@@ -47,14 +47,14 @@ Einen Überblick über die einzelnen Projektschritte finden Sie auf der [Projekt
 
 |  | Theorie | Übung / Projekt 
 |------| ----- | --------- |
-|[Woche 1](./week1) | Was ist Software engineering  | Übung 0: JabRef Setup | 
+|[Woche 1](./week1) | Was ist Software engineering  | Übung 1: JabRef Setup | 
 |    | Eigenschaften von Software | | 
-|[Woche 2](./week2) | Prozesse und Werkzeuge des Software Engineerings| Übung 1: Erste Änderungen an JabRef |
-|[Woche 3](./week3) | Qualitätsmerkmale von Software  | Übung 2: Code verstehen | 
+|[Woche 2](./week2) | Prozesse und Werkzeuge des Software Engineerings| Übung 2: Erste Änderungen an JabRef |
+|[Woche 3](./week3) | Qualitätsmerkmale von Software  | Übung 3: Code verstehen | 
 |    | Anforderungsanalyse | Gruppe gewählt / Projektvorschlag eingereicht | 
-|[Woche 4](./week4) | Architektur / Design | Übung 3: Unit tests | 
+|[Woche 4](./week4) | Architektur / Design | Übung 4: Unit tests | 
 |    | UML | Entwurf Pflichtenheft | 
-|[Woche 5](./week5) | Modularität / Architektur / Design Patterns I | Übung 4: JabRef erweitern  | 
+|[Woche 5](./week5) | Modularität / Architektur / Design Patterns I | Übung 5: JabRef erweitern  | 
 |[Woche 6](./week6)   | Modularität    | Prototyping eigene Erweiterung | 
 |         |    |   Pflichtenheft Besprechung |
 |[Woche 7](./week7) | Design patterns (Zweiter Teil von Woche 6) | Entwurf Designdoc |
