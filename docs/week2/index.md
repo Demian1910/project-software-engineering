@@ -35,8 +35,8 @@ Danach werden Sie selbst erste, kleine Änderungen an Jabref anbringen.
 
 ## Slides und weitere Literatur
 
-* Einführung in Software Engineering
-    * Slides (Auf Adam): [pdf](https://adam.unibas.ch/go/fold/2078422)
+* Prozessmodelle
+    * [Slides](https://adam.unibas.ch/go/fold/2078422) (Auf Adam)
 * Netflix Blog: [Continuous Deployment](https://netflixtechblog.com/deploying-the-netflix-api-79b6176cc3f0)
 
 ## Hausaufgaben
