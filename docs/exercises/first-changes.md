@@ -176,7 +176,7 @@ Schauen Sie sich auch den Stil der [Commit-Messages](https://github.com/JabRef/j
 
 
 #### Änderung 2
-* Fügen Sie in die Toolbar zusätzlich zum Github Icon auch ein (beliebiges) Icon hinzu, welches beim Drücken auf unsere Vorlesungsseite (`https://github.com/PatrickSchniderUnibas/software-engineering`) springt.
+* Fügen Sie in die Toolbar zusätzlich zum Github Icon auch ein (beliebiges) Icon hinzu, welches beim Drücken auf unsere Vorlesungsseite (`https://patrickschniderunibas.github.io/software-engineering/`) springt.
 
 Wenn Sie die Änderung erfolgreich implementiert und getestet haben, können Sie auch diese committen. 
 Achten Sie auch hier auf eine sinnvolle Commit-Message.
