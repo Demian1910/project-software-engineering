@@ -8,8 +8,7 @@ title : Woche 2
 ## Administratives
 
 * Eine kurze Einführung in Git/Github und Hilfestellungen zu den Aufgaben gibt es in der Übungsstunde.
-* Dieses Übungsblatt muss bis spätestens am 29. September via Pull Request abgegeben werden.
-
+* Dieses Übungsblatt muss bis spätestens am **28. September 23:59** via Pull Request abgegeben werden.
 
 In dieser Übung werden Sie einen typischen Arbeitsablauf mit Git durchspielen. 
 Dieser Ablauf wird in ähnlicher Form immer dann vorkommen, wenn Sie ein neues Feature für eine auf Github gehostete Software entwickeln wollen. 
@@ -46,11 +45,11 @@ Damit Sie auf die Änderungen vom *upstream* Repository zugreifen können, müss
 Wenn Sie ssh benutzen (also in der vorigen Übung ssh eingerichtet haben) geben 
 Sie dafür folgendes Kommando ein
 ```
-git remote add upstream git@github.com:unibas-marcelluethi/jabref.git
+git remote add upstream git@github.com:PatrickSchniderUnibas/jabref.git
 ```
 Falls Sie ein Access Token verwendet haben, geben Sie stattdessen folgenden Befehl ein:
 ```
-git remote add upstream https://github.com/unibas-marcelluethi/jabref.git
+git remote add upstream https://github.com/PatrickSchniderUnibas/jabref
 ```
 
 Verifizieren Sie, dass das Hinzufügen erfolgreich war, mithilfe des Befehls:
@@ -77,13 +76,13 @@ Dieser Befehl kopiert die Commits vom *main* Branch des *upstream* Repositories 
 
 Falls sich nichts geändert hat, sollten Sie folgende Ausgabe sehen:
 ```
-From https://github.com/unibas-marcelluethi/jabref
+From https://github.com/PatrickSchniderUnibas/jabref
  * branch                main     -> FETCH_HEAD
 Already up to date.
 ```
 Falls es neue Commits gegeben hat, könnte die Ausgabe etwa so aussehen.
 ```
-From https://github.com/unibas-marcelluethi/jabref
+From https://github.com/PatrickSchniderUnibas/jabref
  * branch                main       -> FETCH_HEAD
    b14a0835f..fb9665a1d  main       -> origin/main
 Updating b14a0835f..fb9665a1d
@@ -177,7 +176,7 @@ Schauen Sie sich auch den Stil der [Commit-Messages](https://github.com/JabRef/j
 
 
 #### Änderung 2
-* Fügen Sie in die Toolbar zusätzlich zum Github Icon auch ein (beliebiges) Icon hinzu, welches beim Drücken auf unsere Vorlesungsseite (`https://unibas-marcelluethi.github.io/software-engineering`) springt.
+* Fügen Sie in die Toolbar zusätzlich zum Github Icon auch ein (beliebiges) Icon hinzu, welches beim Drücken auf unsere Vorlesungsseite (`https://github.com/PatrickSchniderUnibas/software-engineering`) springt.
 
 Wenn Sie die Änderung erfolgreich implementiert und getestet haben, können Sie auch diese committen. 
 Achten Sie auch hier auf eine sinnvolle Commit-Message.
