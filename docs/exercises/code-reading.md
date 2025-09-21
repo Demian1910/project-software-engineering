@@ -165,6 +165,6 @@ Die Abgabe der Übung erfolgt durch push vom Übungs-Branch:
 ```
 git push origin uebung3
 ```
-und entsprechenden Pull Request. Geben Sie hier den Ihnen zugeordneten Reviewer (siehe [diese Liste](https://docs.google.com/spreadsheets/d/1PYetvQ6TL1DSRQ8zje7YfN84yeoFSAswGRvudfjO7Lw/edit?usp=sharing)) an. 
+und entsprechenden Pull Request. Geben Sie hier den Ihnen zugeordneten Reviewer (siehe [diese Liste]((https://adam.unibas.ch/go/file/2100921/download))) an. 
 (Details dazu finden sie in [&Uuml;bungsblatt 2](./first-changes)).
 
