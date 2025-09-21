@@ -49,7 +49,7 @@ git remote add upstream git@github.com:PatrickSchniderUnibas/jabref.git
 ```
 Falls Sie ein Access Token verwendet haben, geben Sie stattdessen folgenden Befehl ein:
 ```
-git remote add upstream https://github.com/PatrickSchniderUnibas/jabref
+git remote add upstream https://github.com/PatrickSchniderUnibas/jabref.git
 ```
 
 Verifizieren Sie, dass das Hinzufügen erfolgreich war, mithilfe des Befehls:
@@ -210,7 +210,7 @@ Hier würden Sie normalerweise das Upstream repository wählen.
 
 ![image](images/jabref-target-repo.png)
 
-Auf der folgenden Seite können Sie nun Ihre Änderung kurz beschreiben, sowie einen Reviewer angeben. Geben Sie hier den Ihnen zugeordneten Reviewer (siehe [diese Liste](https://adam.unibas.ch/goto_adam_file_1879922_download.html)) an. 
+Auf der folgenden Seite können Sie nun Ihre Änderung kurz beschreiben, sowie einen Reviewer angeben. Geben Sie hier den Ihnen zugeordneten Reviewer (siehe [diese Liste](https://docs.google.com/spreadsheets/d/1PYetvQ6TL1DSRQ8zje7YfN84yeoFSAswGRvudfjO7Lw/edit?usp=sharing)) an. 
 
 ![image](images/jabref-pr-reviewers.png)
 
