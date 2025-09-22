@@ -176,7 +176,9 @@ Schauen Sie sich auch den Stil der [Commit-Messages](https://github.com/JabRef/j
 
 
 #### Änderung 2
+
 * Fügen Sie in die Toolbar zusätzlich zum Github Icon auch ein (beliebiges) Icon hinzu, welches beim Drücken auf unsere Vorlesungsseite (`https://patrickschniderunibas.github.io/software-engineering/`) springt.
+
 
 Wenn Sie die Änderung erfolgreich implementiert und getestet haben, können Sie auch diese committen. 
 Achten Sie auch hier auf eine sinnvolle Commit-Message.
@@ -211,6 +213,7 @@ Hier würden Sie normalerweise das Upstream repository wählen.
 ![image](images/jabref-target-repo.png)
 
 Auf der folgenden Seite können Sie nun Ihre Änderung kurz beschreiben, sowie einen Reviewer angeben. Geben Sie hier den Ihnen zugeordneten Reviewer (siehe [diese Liste]((https://adam.unibas.ch/go/file/2100921/download))) an. 
+
 
 ![image](images/jabref-pr-reviewers.png)
 

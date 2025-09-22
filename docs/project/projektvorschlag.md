@@ -37,9 +37,7 @@ Schreiben Sie eine kurze Projektbeschreibung. Nutzen Sie dazu das folgende Templ
 
 ## Abgabe
 
-Reichen Sie Ihren Projektvorschlag auf [Adam](https://adam.unibas.ch/goto_adam_exc_1841758.html) ein.
-<!---
-GIO: Es existiert noch kein Adam Space dafür
---->
+Reichen Sie Ihren Projektvorschlag auf [Adam](https://adam.unibas.ch/go/exc/2100855) ein.
+
 
 
