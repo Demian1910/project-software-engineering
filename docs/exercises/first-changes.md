@@ -7,7 +7,7 @@ title : Woche 2
 
 ## Administratives
 
-* Eine kurze Einführung in Git/Github und Hilfestellungen zu den Aufgaben gibt es in der Übungsstunde.
+* Eine kurze Einführung in [Git/Github](https://github.com/Giovvvvva/test) und Hilfestellungen zu den Aufgaben gibt es in der Übungsstunde.
 * Dieses Übungsblatt muss bis spätestens am **28. September 23:59** via Pull Request abgegeben werden.
 
 In dieser Übung werden Sie einen typischen Arbeitsablauf mit Git durchspielen. 
