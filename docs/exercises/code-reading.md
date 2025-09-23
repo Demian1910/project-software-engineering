@@ -113,13 +113,14 @@ In der Java-Welt werden viele frei verfügbare Bibliotheken auf [Maven Central](
 Suchen Sie da nach dem Paket `opencsv`. Auf der Seite wird Ihnen auch angezeigt, wie Sie das Paket in Gradle als Abhängigkeit hinzufügen können. Finden Sie heraus wo und wie? Fügen Sie auch dieses Paket hinzu. 
 
 *Hinweis 1:* JabRef verwendet Kotlin. 
+
 *Hinweis 2:* Gradle versucht normalerweise, jedes JAR zu dekonstruieren und die Metadaten (z. B. Modulnamen) durch seine Transformation neu aufzubauen, daher kann es bei Bibliotheken, die sich bereits als automatische Module deklarieren, zu Problemen kommen. Indem man die Abhängigkeit jedoch in einer Platform-Deklaration einbettet, versucht Gradle nicht mehr, das JAR neu zu interpretieren, sondern übernimmt direkt die eigene Versionsausrichtung und Metadaten der Bibliothek.
 
 #### 1.4 Hinzufügen eines Plugins
 Fügen Sie das Plugin [Gradle-License-Report](https://github.com/jk1/Gradle-License-Report) durch anpassen der Datei ```build.gradle.kts```zum Projekt hinzu. Die entsprechenden Instruktionen finden Sie auf
 der Github Seite vom [Gradle-License-Report](https://github.com/jk1/Gradle-License-Report).
 
-*Hinweis:* JabRef verwendet Kotlin. Lesen Sie die Webseite vorsichtig durch und überprüfen Sie Codeblöcke, die sie kopieren (stimmen alle Versionen?).
+*Hinweis:* JabRef verwendet Kotlin. Lesen Sie die Webseite vorsichtig durch und überprüfen Sie Codeblöcke, die Sie kopieren (korrekte Version?).
 
 Testen Sie das Plugin und schauen Sie sich den generierten Report an.
 Fügen Sie einen Kommentar in der Datei ```build.gradle.kts``` hinzu. Dieser soll ganz kurz (in Ihren eigenen Worten) dokumentieren, was das Plugin macht und wozu wir es brauchen.
