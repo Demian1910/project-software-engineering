@@ -16,8 +16,8 @@ Kopieren Sie das [Pflichtenheft Markdown Template](https://raw.githubusercontent
 
 Schauen Sie sich die Theorie zum Thema [Anforderungsanalyse](../week3) nochmals genau an. Überlegen Sie sich wer ihre Stakeholder sind und wie diese von den Änderungen betroffen sind. Schauen Sie sich die nachfolgenden Beispiele für Pflichtenhefte an:
 
-* [Beispiel früheres Projekt](https://adam.unibas.ch/goto_adam_file_1885893_download.html)
-* [Beispiel nach Lehrbuch von Balzert](https://adam.unibas.ch/goto_adam_file_1885901_download.html).
+* [Beispiel früheres Projekt](https://adam.unibas.ch/go/file/2109024/download)
+* [Beispiel nach Lehrbuch von Balzert](https://adam.unibas.ch/go/file/2109025/download).
 
 
 Schreiben Sie nun die Abschnitte 1 - 2 im Pflichtenheft für ihr Projekt. Nachdem Sie die Abschnitte geschrieben haben, machen Sie mit den nachfolgenden Schritten weiter. 
