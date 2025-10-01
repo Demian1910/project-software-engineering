@@ -3,8 +3,8 @@
 ## Group Members
 - Anton Bilokon
 - Martin Chikov
-- Livia ...
-- Dominic ...
+- Livia Bucheli
+- Dominik Schweigler
 - Demian Piodi
 
 ## Project Repository
@@ -18,13 +18,13 @@ Write a short project description. This should clarify the following points:
 - What are the main components of the extension? (Graphical User Interface, IO, Backend, External Modules, …)
 - What major challenges do you expect during implementation?
 
-#### Papers analytics
+#### Documents analytics
 The extension should be able to display with a chart analytics regarding the files characteristics in the repository,
-such as the entry type and the field of the paper.
-Currently, JabRef does not provide an overview of the characteristics of the files contained in the repository
+such as the entry type, the field of the document and its rank.
+Currently, JabRef does not provide an overview of the characteristics of the files contained in the folder.
 
 We will be using the data
-stored in the bib file, elaborate it and display the most significant information. 
+stored in the bib file, elaborate it and display the most significant information with a chart. 
 
 We need: a data extraction modul to read and process the information in the bib file, 
 an analytics engine to aggregate and analyse the data and a visualization component 
@@ -37,4 +37,5 @@ to display properly the results.
 - How large do you estimate the overall project workload to be?  
 
 There can be one person working on the extraction phase, two people working 
-on the analysis of the date and two other people working on the UI via graph.
+on the analysis of the data and two other people working on the UI.
+
